@@ -15,4 +15,4 @@
 <img height="150em" src="https://github-readme-stats-dgfd.vercel.app/api?username=fscorsini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-![Snake animation](https://github.com/fscorsini/fscorsini/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/fscorsini/fscorsini/blob/output/github-contribution-grid-snake.svg)
